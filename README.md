@@ -34,3 +34,15 @@ For example, when the player raises their hand and performs a swiping motion, th
 - [Level 2: Sharpening the Evidence](#level-2-sharpening-the-evidence)
 
 ![image](https://github.com/hendraraman/mini_project_2024/assets/90880440/49b09c5a-eadd-41f6-8f79-17c1a9e3d5b0)
+
+
+![image](https://github.com/hendraraman/mini_project_2024/assets/90880440/f14c2e8b-9277-4de5-9a78-52634015fd2b)
+
+
+- [Level 3: Solving the Crime](#level-3-solving-the-crime)
+![image](https://github.com/hendraraman/mini_project_2024/assets/90880440/7b29ccd0-face-44b3-98ed-57c714b68ee1)
+
+![image](https://github.com/hendraraman/mini_project_2024/assets/90880440/4ddb7deb-6c80-4f7d-bffa-09de1fc4697d)
+
+
+
