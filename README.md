@@ -30,3 +30,7 @@ To enable hand gesture recognition, the game leverages the mediapipe and opencv 
 
 For example, when the player raises their hand and performs a swiping motion, the algorithm recognizes this gesture and triggers the character to jump. Similarly, other gestures can be mapped to different actions, allowing for a more natural and intuitive way of controlling the game.
 
+
+- [Level 2: Sharpening the Evidence](#level-2-sharpening-the-evidence)
+
+![image](https://github.com/hendraraman/mini_project_2024/assets/90880440/49b09c5a-eadd-41f6-8f79-17c1a9e3d5b0)
