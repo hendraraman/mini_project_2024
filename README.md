@@ -45,6 +45,6 @@ For example, when the player raises their hand and performs a swiping motion, th
 ![image](https://github.com/hendraraman/mini_project_2024/assets/90880440/4ddb7deb-6c80-4f7d-bffa-09de1fc4697d)
 
 
-##Installation
+## Installation
 
 Use the requirements2.txt to install the necessary packages
